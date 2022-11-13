@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Douwe Zumker
-### And welcome to my profile page
+### I currently study Computer Science
 
 #### Here is some personal information about me
 - 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
