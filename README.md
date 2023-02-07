@@ -3,7 +3,7 @@
 
 #### Here is some personal information about me
 - 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
-- 🌱 I’m currently learning Python 🐍, I also have a bit of experience with C++
+- 🌱 I’m currently learning Python 🐍 and C#, I also have a bit of experience with C++
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: You can DM me
 <!--
