@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Douwe Zumker
-### I currently study Computer Science
+### I currently study Computer Science at Hogeschool Rotterdam
 
 #### Here is some personal information about me
 - 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
