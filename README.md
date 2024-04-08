@@ -4,7 +4,6 @@
 #### Here is some personal information about me
 - 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
 - 🌱 I’m currently learning Python 🐍 and C#, I also have a bit of experience with C++
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: You can DM me
 <!--
 **Peredurz/Peredurz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
