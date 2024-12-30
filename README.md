@@ -1,20 +1,17 @@
-### Hi there 👋, my name is Douwe Zumker
-### I currently study Computer Science at Hogeschool Rotterdam
+### Hello, my name is Douwe Zumker
+### I am currently studying Computer Science at Hogeschool Rotterdam
 
-#### Here is some personal information about me
-- 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
-- 🌱 I’m currently learning Python 🐍 and C#, I also have a bit of experience with C++
-- 📫 How to reach me: You can DM me
-<!--
-**Peredurz/Peredurz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Personal Information
+- 🔭 I am currently working on my personal repository for university, where I am learning to work on a professional level.
+- 🌱 I am currently learning Python 🐍 and C#. I also have some experience with C++.
+- 📫 How to reach me: You can direct message me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on my personal repository for university, where I learn to work on a professional level
-- 🌱 I’m currently learning Python 🐍
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 My GitHub Statistics 🌟
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peredurz&show_icons=true&theme=radical)
+
+### 💻 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
