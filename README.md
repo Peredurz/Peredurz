@@ -19,3 +19,4 @@
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
