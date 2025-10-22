@@ -7,13 +7,6 @@
 - 💼 I work at Harborn Digital.
 - 📫 How to reach me: You can direct message me.
 
----
-
-### 🌟 My GitHub Statistics 🌟
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peredurz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peredurz&layout=compact&theme=radical&hide=Makefile)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Peredurz&theme=radical)
-
 ### 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
