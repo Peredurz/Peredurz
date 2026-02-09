@@ -4,7 +4,7 @@
 #### Personal Information
 - 🔭 I am currently working on my personal repository for university, where I am learning to work on a professional level.
 - 🌱 I am currently working with Python 🐍, C#, and Go. I also have some experience with C++.
-- 💼 I work at Harborn Digital.
+- 💼 I am currently doing my final thesis at INGV Osservatorio Etneo.
 - 📫 How to reach me: You can direct message me.
 
 ### 💻 Languages and Tools
